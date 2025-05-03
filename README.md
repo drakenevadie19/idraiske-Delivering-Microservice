@@ -1,7 +1,7 @@
 # idraiske-delivery-update-server
 Idraiske Delivery Update Server
 Responsibilities:
-- This Eureka Server is to manage status of real-time delivery
+- This Server is to manage status of order delivery (real-time)
   Technologies:
 - SpringBoot
 - Kafka
